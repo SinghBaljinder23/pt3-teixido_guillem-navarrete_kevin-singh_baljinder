@@ -3,6 +3,15 @@ html{
     margin-right: 30px;
     border: 0px;
   }
+
+  #container {
+    width: 70px;
+    margin: 0px;
+  }
+
+  aside {
+    width: 5%;
+  }
   
   #homelogo {
     margin-left: 40%;
